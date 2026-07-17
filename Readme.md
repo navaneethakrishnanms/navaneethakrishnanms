@@ -104,13 +104,15 @@ Real-time people counting system using YOLOv8 and multi-object tracking with uni
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navaneethakrishnanms&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navaneethakrishnanms&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-black.vercel.app/api?username=navaneethakrishnanms&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=navaneethakrishnanms&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaneethakrishnanms&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=navaneethakrishnanms&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
 </p>
+
+> If any card still shows a broken image, it's the shared public widget host being rate-limited (known issue, not your profile). Refreshing the page after a minute usually fixes it — for a permanent fix, self-host the widget on your own free Vercel account (see [this guide](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own)).
 
 ---
 
